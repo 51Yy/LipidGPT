@@ -1,10 +1,5 @@
 # LipidGPT
 
 ## Acknowledgements
-We thank the authors of CRT: "Generative AI Design and Exploration of Nucleoside Analogs" for releasing their code. The code in this repository is based on their source code release (https://github.com/dd1github/Generative-AI). If you find this code useful, please consider citing their work.
+Thanks to the authors of "MolGPT: Molecular Generation Using a Transformer-Decoder Model" for sharing their code (https://doi.org/10.1021/acs.jcim.1c00600). Their work laid the foundation for LipidGPT, and we built this project based on their original codebase.
 
-## Training (🚧 Under Development)
-Detailed training instructions and parameters will be added soon.
-
-## Generation (🚧 Under Development)
-Generation procedures and examples are being documented.
